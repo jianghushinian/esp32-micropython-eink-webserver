@@ -27,9 +27,11 @@
     WEATHER_URL = "查询天气接口"
     ```
 
-2. 启动程序 `server.py`
+2. 通过 `Thonny` IDE 启动程序 `server.py`
 
 3. 程序启动后会在屏幕上显示 `IP` 地址，替换 `index.html` 中的 `url` 地址
+
+4. 浏览器地址栏输入 `IP:Port` 即可访问控制面板
 
 ## 技术栈
 
